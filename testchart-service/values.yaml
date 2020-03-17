@@ -2,7 +2,7 @@
 replicaCount: 2
 
 image:
-  repository: iusdev.azurecr.io/ius.employerwages.service
+  repository: vtiusdev.azurecr.io/ius.employerwages.service
   tag: 0.2.9.2502
 
 nameOverride: ""
